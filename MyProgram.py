@@ -8,3 +8,4 @@
 #you are welcome to design your own program.
 #Be sure to get your idea approved ahead of time by Mx. Yost
 #Begin your program here
+print ("hello world")
